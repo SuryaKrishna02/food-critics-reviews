@@ -1,0 +1,942 @@
+[
+    {
+      "key": "name",
+      "value": "The Farm Bloomington",
+      "restaurant_id": "1",
+      "action_by": "system",
+      "action": "insert",
+      "time_of_action": "2024-01-15T14:23:11Z"
+    },
+    {
+      "key": "address",
+      "value": {
+        "building": "108",
+        "coord": [-86.534123, 39.167234],
+        "street": "East Kirkwood Avenue",
+        "zipcode": "47408"
+      },
+      "restaurant_id": "1",
+      "action_by": "system",
+      "action": "insert",
+      "time_of_action": "2024-01-15T14:23:11Z"
+    },
+    {
+      "key": "user_reviews",
+      "value": {
+        "name": "Sarah Johnson",
+        "review": "Amazing farm-to-table experience! The seasonal menu was outstanding.",
+        "rating": 5,
+        "sentiment_score": 0.92
+      },
+      "restaurant_id": "1",
+      "action_by": "Sarah Johnson",
+      "action": "insert",
+      "time_of_action": "2024-01-15T14:23:11Z"
+    },
+    {
+      "key": "user_reviews",
+      "value": {
+        "name": "Mike Thompson",
+        "review": "Fresh ingredients but the service was a bit slow.",
+        "rating": 4,
+        "sentiment_score": 0.3
+      },
+      "restaurant_id": "1",
+      "action_by": "Mike Thompson",
+      "action": "insert",
+      "time_of_action": "2024-01-15T14:23:11Z"
+    },
+    {
+      "key": "name",
+      "value": "Uptown Cafe",
+      "restaurant_id": "2",
+      "action_by": "system",
+      "action": "insert",
+      "time_of_action": "2024-02-01T09:15:22Z"
+    },
+    {
+      "key": "address",
+      "value": {
+        "building": "102",
+        "coord": [-86.535678, 39.168456],
+        "street": "North Walnut Street",
+        "zipcode": "47404"
+      },
+      "restaurant_id": "2",
+      "action_by": "system",
+      "action": "insert",
+      "time_of_action": "2024-02-01T09:15:22Z"
+    },
+    {
+      "key": "user_reviews",
+      "value": {
+        "name": "Emily Davis",
+        "review": "Best brunch spot in Bloomington! Love their eggs benedict.",
+        "rating": 5,
+        "sentiment_score": 0.88
+      },
+      "restaurant_id": "2",
+      "action_by": "Emily Davis",
+      "action": "insert",
+      "time_of_action": "2024-02-01T09:15:22Z"
+    },
+    {
+      "key": "name",
+      "value": "BuffaLouie's",
+      "restaurant_id": "3",
+      "action_by": "system",
+      "action": "insert",
+      "time_of_action": "2024-02-15T18:45:33Z"
+    },
+    {
+      "key": "address",
+      "value": {
+        "building": "114",
+        "coord": [-86.533890, 39.166789],
+        "street": "South Indiana Avenue",
+        "zipcode": "47408"
+      },
+      "restaurant_id": "3",
+      "action_by": "system",
+      "action": "insert",
+      "time_of_action": "2024-02-15T18:45:33Z"
+    },
+    {
+      "key": "user_reviews",
+      "value": {
+        "name": "Chris Wilson",
+        "review": "Wings were great but too crowded during game days.",
+        "rating": 3,
+        "sentiment_score": 0.1
+      },
+      "restaurant_id": "3",
+      "action_by": "Chris Wilson",
+      "action": "insert",
+      "time_of_action": "2024-02-15T18:45:33Z"
+    },
+    {
+      "key": "user_reviews",
+      "value": {
+        "name": "Lisa Parker",
+        "review": "Best wings in town! Great atmosphere.",
+        "rating": 5,
+        "sentiment_score": 0.95
+      },
+      "restaurant_id": "3",
+      "action_by": "Lisa Parker",
+      "action": "insert",
+      "time_of_action": "2024-02-15T18:45:33Z"
+    },
+    {
+      "key": "user_reviews",
+      "value": {
+        "name": "Tom Baker",
+        "review": "Decent food but prices are a bit high.",
+        "rating": 3,
+        "sentiment_score": -0.2
+      },
+      "restaurant_id": "3",
+      "action_by": "Tom Baker",
+      "action": "insert",
+      "time_of_action": "2024-02-15T18:45:33Z"
+    },
+    {
+      "key": "name",
+      "value": "Mother Bear's Pizza",
+      "restaurant_id": "4",
+      "action_by": "system",
+      "action": "insert",
+      "time_of_action": "2024-03-01T20:12:44Z"
+    },
+    {
+      "key": "address",
+      "value": {
+        "building": "1428",
+        "coord": [-86.537123, 39.164567],
+        "street": "East 3rd Street",
+        "zipcode": "47401"
+      },
+      "restaurant_id": "4",
+      "action_by": "system",
+      "action": "insert",
+      "time_of_action": "2024-03-01T20:12:44Z"
+    },
+    {
+      "key": "user_reviews",
+      "value": {
+        "name": "David Chen",
+        "review": "Best pizza in Bloomington! The crust is perfect.",
+        "rating": 5,
+        "sentiment_score": 0.89
+      },
+      "restaurant_id": "4",
+      "action_by": "David Chen",
+      "action": "insert",
+      "time_of_action": "2024-03-01T20:12:44Z"
+    },
+    {
+      "key": "user_reviews",
+      "value": {
+        "name": "Rachel White",
+        "review": "Good pizza but long wait times.",
+        "rating": 4,
+        "sentiment_score": 0.45
+      },
+      "restaurant_id": "4",
+      "action_by": "Rachel White",
+      "action": "insert",
+      "time_of_action": "2024-03-01T20:12:44Z"
+    },
+    {
+        "key": "name",
+        "value": "Turkuaz Cafe",
+        "restaurant_id": "5",
+        "action_by": "system",
+        "action": "insert",
+        "time_of_action": "2024-03-10T12:34:56Z"
+      },
+      {
+        "key": "address",
+        "value": {
+          "building": "301",
+          "coord": [-86.532345, 39.165678],
+          "street": "East 3rd Street",
+          "zipcode": "47401"
+        },
+        "restaurant_id": "5",
+        "action_by": "system",
+        "action": "insert",
+        "time_of_action": "2024-03-10T12:34:56Z"
+      },
+      {
+        "key": "user_reviews",
+        "value": {
+          "name": "Amanda Lopez",
+          "review": "Terrible service and cold food.",
+          "rating": 1,
+          "sentiment_score": -0.85
+        },
+        "restaurant_id": "5",
+        "action_by": "Amanda Lopez",
+        "action": "insert",
+        "time_of_action": "2024-03-10T12:34:56Z"
+      },
+      {
+        "key": "name",
+        "value": "Crazy Horse",
+        "restaurant_id": "6",
+        "action_by": "system",
+        "action": "insert",
+        "time_of_action": "2024-03-15T15:23:45Z"
+      },
+      {
+        "key": "address",
+        "value": {
+          "building": "214",
+          "coord": [-86.536789, 39.167890],
+          "street": "West Kirkwood Avenue",
+          "zipcode": "47404"
+        },
+        "restaurant_id": "6",
+        "action_by": "system",
+        "action": "insert",
+        "time_of_action": "2024-03-15T15:23:45Z"
+      },
+      {
+        "key": "user_reviews",
+        "value": {
+          "name": "John Smith",
+          "review": "Great food and amazing craft beer selection!",
+          "rating": 5,
+          "sentiment_score": 0.91
+        },
+        "restaurant_id": "6",
+        "action_by": "John Smith",
+        "action": "insert",
+        "time_of_action": "2024-03-15T15:23:45Z"
+      },
+      {
+        "key": "user_reviews",
+        "value": {
+          "name": "Kelly Brown",
+          "review": "Love their burgers but service is hit or miss.",
+          "rating": 4,
+          "sentiment_score": 0.35
+        },
+        "restaurant_id": "6",
+        "action_by": "Kelly Brown",
+        "action": "insert",
+        "time_of_action": "2024-03-15T15:23:45Z"
+      },
+      {
+        "key": "name",
+        "value": "Nick's English Hut",
+        "restaurant_id": "7",
+        "action_by": "system",
+        "action": "insert",
+        "time_of_action": "2024-03-20T17:56:23Z"
+      },
+      {
+        "key": "address",
+        "value": {
+          "building": "423",
+          "coord": [-86.535234, 39.166543],
+          "street": "East Kirkwood Avenue",
+          "zipcode": "47408"
+        },
+        "restaurant_id": "7",
+        "action_by": "system",
+        "action": "insert",
+        "time_of_action": "2024-03-20T17:56:23Z"
+      },
+      {
+        "key": "user_reviews",
+        "value": {
+          "name": "Peter Jones",
+          "review": "Classic IU hangout! Stromboli is amazing.",
+          "rating": 5,
+          "sentiment_score": 0.87
+        },
+        "restaurant_id": "7",
+        "action_by": "Peter Jones",
+        "action": "insert",
+        "time_of_action": "2024-03-20T17:56:23Z"
+      },
+      {
+        "key": "user_reviews",
+        "value": {
+          "name": "Mary Williams",
+          "review": "Food is mediocre but great atmosphere.",
+          "rating": 3,
+          "sentiment_score": 0.1
+        },
+        "restaurant_id": "7",
+        "action_by": "Mary Williams",
+        "action": "insert",
+        "time_of_action": "2024-03-20T17:56:23Z"
+      },
+      {
+        "key": "name",
+        "value": "Siam House",
+        "restaurant_id": "8",
+        "action_by": "system",
+        "action": "insert",
+        "time_of_action": "2024-03-25T19:34:12Z"
+      },
+      {
+        "key": "address",
+        "value": {
+          "building": "430",
+          "coord": [-86.534567, 39.165432],
+          "street": "East 4th Street",
+          "zipcode": "47408"
+        },
+        "restaurant_id": "8",
+        "action_by": "system",
+        "action": "insert",
+        "time_of_action": "2024-03-25T19:34:12Z"
+      },
+      {
+        "key": "user_reviews",
+        "value": {
+          "name": "Jessica Lee",
+          "review": "Best Thai food in town! Pad Thai is excellent.",
+          "rating": 5,
+          "sentiment_score": 0.94
+        },
+        "restaurant_id": "8",
+        "action_by": "Jessica Lee",
+        "action": "insert",
+        "time_of_action": "2024-03-25T19:34:12Z"
+      },
+      {
+        "key": "user_reviews",
+        "value": {
+          "name": "Robert Taylor",
+          "review": "Good food but small portions for the price.",
+          "rating": 3,
+          "sentiment_score": 0.15
+        },
+        "restaurant_id": "8",
+        "action_by": "Robert Taylor",
+        "action": "insert",
+        "time_of_action": "2024-03-25T19:34:12Z"
+      },
+      {
+        "key": "user_reviews",
+        "value": {
+          "name": "Amy Chen",
+          "review": "Authentic Thai flavors, friendly staff!",
+          "rating": 4,
+          "sentiment_score": 0.78
+        },
+        "restaurant_id": "8",
+        "action_by": "Amy Chen",
+        "action": "insert",
+        "time_of_action": "2024-03-25T19:34:12Z"
+      },
+      {
+        "key": "name",
+        "value": "Anatolia",
+        "restaurant_id": "9",
+        "action_by": "system",
+        "action": "insert",
+        "time_of_action": "2024-04-01T11:23:45Z"
+      },
+      {
+        "key": "address",
+        "value": {
+          "building": "405",
+          "coord": [-86.533456, 39.164321],
+          "street": "East 4th Street",
+          "zipcode": "47408"
+        },
+        "restaurant_id": "9",
+        "action_by": "system",
+        "action": "insert",
+        "time_of_action": "2024-04-01T11:23:45Z"
+      },
+      {
+        "key": "user_reviews",
+        "value": {
+          "name": "Michael Brown",
+          "review": "Delicious Turkish food but limited seating.",
+          "rating": 4,
+          "sentiment_score": 0.65
+        },
+        "restaurant_id": "9",
+        "action_by": "Michael Brown",
+        "action": "insert",
+        "time_of_action": "2024-04-01T11:23:45Z"
+      },
+      {
+        "key": "name",
+        "value": "My Thai Cafe",
+        "restaurant_id": "10",
+        "action_by": "system",
+        "action": "insert",
+        "time_of_action": "2024-04-05T14:45:56Z"
+      },
+      {
+        "key": "address",
+        "value": {
+          "building": "501",
+          "coord": [-86.536789, 39.168901],
+          "street": "North College Avenue",
+          "zipcode": "47404"
+        },
+        "restaurant_id": "10",
+        "action_by": "system",
+        "action": "insert",
+        "time_of_action": "2024-04-05T14:45:56Z"
+      },
+      {
+        "key": "user_reviews",
+        "value": {
+          "name": "Steven Garcia",
+          "review": "Worst service ever! Food was cold.",
+          "rating": 1,
+          "sentiment_score": -0.92
+        },
+        "restaurant_id": "10",
+        "action_by": "Steven Garcia",
+        "action": "insert",
+        "time_of_action": "2024-04-05T14:45:56Z"
+      },
+      {
+        "key": "user_reviews",
+        "value": {
+          "name": "Laura Martinez",
+          "review": "Used to be better, quality has gone down.",
+          "rating": 2,
+          "sentiment_score": -0.45
+        },
+        "restaurant_id": "10",
+        "action_by": "Laura Martinez",
+        "action": "insert",
+        "time_of_action": "2024-04-05T14:45:56Z"
+      },
+      {
+        "key": "name",
+        "value": "Dagwood's Deli",
+        "restaurant_id": "11",
+        "action_by": "system",
+        "action": "insert",
+        "time_of_action": "2024-04-10T16:78:34Z"
+      },
+      {
+        "key": "address",
+        "value": {
+          "building": "116",
+          "coord": [-86.535678, 39.167234],
+          "street": "South Indiana Avenue",
+          "zipcode": "47408"
+        },
+        "restaurant_id": "11",
+        "action_by": "system",
+        "action": "insert",
+        "time_of_action": "2024-04-10T16:78:34Z"
+      },
+      {
+        "key": "user_reviews",
+        "value": {
+          "name": "Kevin Wilson",
+          "review": "Best sandwiches in town! Quick service.",
+          "rating": 5,
+          "sentiment_score": 0.88
+        },
+        "restaurant_id": "11",
+        "action_by": "Kevin Wilson",
+        "action": "insert",
+        "time_of_action": "2024-04-10T16:78:34Z"
+      },
+      {
+        "key": "user_reviews",
+        "value": {
+          "name": "Diana Scott",
+          "review": "Good but a bit pricey for what you get.",
+          "rating": 3,
+          "sentiment_score": 0.2
+        },
+        "restaurant_id": "11",
+        "action_by": "Diana Scott",
+        "action": "insert",
+        "time_of_action": "2024-04-10T16:78:34Z"
+      },
+      {
+        "key": "name",
+        "value": "Irish Lion",
+        "restaurant_id": "12",
+        "action_by": "system",
+        "action": "insert",
+        "time_of_action": "2024-04-15T19:23:45Z"
+      },
+      {
+        "key": "address",
+        "value": {
+          "building": "212",
+          "coord": [-86.534890, 39.166789],
+          "street": "West Kirkwood Avenue",
+          "zipcode": "47404"
+        },
+        "restaurant_id": "12",
+        "action_by": "system",
+        "action": "insert",
+        "time_of_action": "2024-04-15T19:23:45Z"
+      },
+      {
+        "key": "user_reviews",
+        "value": {
+          "name": "Patrick O'Brien",
+          "review": "Great atmosphere and authentic Irish food!",
+          "rating": 5,
+          "sentiment_score": 0.91
+        },
+        "restaurant_id": "12",
+        "action_by": "Patrick O'Brien",
+        "action": "insert",
+        "time_of_action": "2024-04-15T19:23:45Z"
+      },
+      {
+        "key": "user_reviews",
+        "value": {
+          "name": "Sarah Miller",
+          "review": "Love the fish and chips, but service is slow.",
+          "rating": 4,
+          "sentiment_score": 0.45
+        },
+        "restaurant_id": "12",
+        "action_by": "Sarah Miller",
+        "action": "insert",
+        "time_of_action": "2024-04-15T19:23:45Z"
+      },
+      {
+        "key": "user_reviews",
+        "value": {
+          "name": "James Wilson",
+          "review": "Excellent pub atmosphere!",
+          "rating": 5,
+          "sentiment_score": 0.85
+        },
+        "restaurant_id": "12",
+        "action_by": "James Wilson",
+        "action": "insert",
+        "time_of_action": "2024-04-15T19:23:45Z"
+      },
+      {
+        "key": "name",
+        "value": "Cafe Pizzaria",
+        "restaurant_id": "13",
+        "action_by": "system",
+        "action": "insert",
+        "time_of_action": "2024-04-20T13:45:23Z"
+      },
+      {
+        "key": "address",
+        "value": {
+          "building": "405",
+          "coord": [-86.533567, 39.165432],
+          "street": "East Kirkwood Avenue",
+          "zipcode": "47408"
+        },
+        "restaurant_id": "13",
+        "action_by": "system",
+        "action": "insert",
+        "time_of_action": "2024-04-20T13:45:23Z"
+      },
+      {
+        "key": "user_reviews",
+        "value": {
+          "name": "Tony Romano",
+          "review": "Classic pizza joint with great history.",
+          "rating": 4,
+          "sentiment_score": 0.75
+        },
+        "restaurant_id": "13",
+        "action_by": "Tony Romano",
+        "action": "insert",
+        "time_of_action": "2024-04-20T13:45:23Z"
+      },
+      {
+        "key": "name",
+        "value": "Taste of India",
+        "restaurant_id": "14",
+        "action_by": "system",
+        "action": "insert",
+        "time_of_action": "2024-04-25T15:34:56Z"
+      },
+      {
+        "key": "address",
+        "value": {
+          "building": "316",
+          "coord": [-86.532345, 39.164567],
+          "street": "East 4th Street",
+          "zipcode": "47408"
+        },
+        "restaurant_id": "14",
+        "action_by": "system",
+        "action": "insert",
+        "time_of_action": "2024-04-25T15:34:56Z"
+      },
+      {
+        "key": "user_reviews",
+        "value": {
+          "name": "Priya Patel",
+          "review": "Authentic Indian cuisine! Love the buffet.",
+          "rating": 5,
+          "sentiment_score": 0.89
+        },
+        "restaurant_id": "14",
+        "action_by": "Priya Patel",
+        "action": "insert",
+        "time_of_action": "2024-04-25T15:34:56Z"
+      },
+      {
+        "key": "user_reviews",
+        "value": {
+          "name": "Mark Johnson",
+          "review": "Great food but expensive for students.",
+          "rating": 4,
+          "sentiment_score": 0.45
+        },
+        "restaurant_id": "14",
+        "action_by": "Mark Johnson",
+        "action": "insert",
+        "time_of_action": "2024-04-25T15:34:56Z"
+      },
+      {
+        "key": "name",
+        "value": "Runcible Spoon",
+        "restaurant_id": "15",
+        "action_by": "system",
+        "action": "insert",
+        "time_of_action": "2024-05-01T10:23:45Z"
+      },
+      {
+        "key": "address",
+        "value": {
+          "building": "412",
+          "coord": [-86.535678, 39.167890],
+          "street": "East 6th Street",
+          "zipcode": "47408"
+        },
+        "restaurant_id": "15",
+        "action_by": "system",
+        "action": "insert",
+        "time_of_action": "2024-05-01T10:23:45Z"
+      },
+      {
+        "key": "user_reviews",
+        "value": {
+          "name": "Emma Thompson",
+          "review": "Cozy atmosphere and great breakfast!",
+          "rating": 5,
+          "sentiment_score": 0.92
+        },
+        "restaurant_id": "15",
+        "action_by": "Emma Thompson",
+        "action": "insert",
+        "time_of_action": "2024-05-01T10:23:45Z"
+      },
+      {
+        "key": "user_reviews",
+        "value": {
+          "name": "Alex Rodriguez",
+          "review": "Coffee is excellent but service is slow.",
+          "rating": 3,
+          "sentiment_score": 0.25
+        },
+        "restaurant_id": "15",
+        "action_by": "Alex Rodriguez",
+        "action": "insert",
+        "time_of_action": "2024-05-01T10:23:45Z"
+      },
+      {
+        "key": "name",
+        "value": "Bloomington Brewing Co",
+        "restaurant_id": "16",
+        "action_by": "system",
+        "action": "insert",
+        "time_of_action": "2024-05-05T18:45:23Z"
+      },
+      {
+        "key": "address",
+        "value": {
+          "building": "1795",
+          "coord": [-86.537890, 39.168901],
+          "street": "West 10th Street",
+          "zipcode": "47404"
+        },
+        "restaurant_id": "16",
+        "action_by": "system",
+        "action": "insert",
+        "time_of_action": "2024-05-05T18:45:23Z"
+      },
+      {
+        "key": "user_reviews",
+        "value": {
+          "name": "Dave Miller",
+          "review": "Great local beers and decent pub food.",
+          "rating": 4,
+          "sentiment_score": 0.78
+        },
+        "restaurant_id": "16",
+        "action_by": "Dave Miller",
+        "action": "insert",
+        "time_of_action": "2024-05-05T18:45:23Z"
+      },
+      {
+        "key": "name",
+        "value": "Village Deli",
+        "restaurant_id": "17",
+        "action_by": "system",
+        "action": "insert",
+        "time_of_action": "2024-05-10T09:34:56Z"
+      },
+      {
+        "key": "address",
+        "value": {
+          "building": "409",
+          "coord": [-86.534567, 39.166543],
+          "street": "East Kirkwood Avenue",
+          "zipcode": "47408"
+        },
+        "restaurant_id": "17",
+        "action_by": "system",
+        "action": "insert",
+        "time_of_action": "2024-05-10T09:34:56Z"
+      },
+      {
+        "key": "user_reviews",
+        "value": {
+          "name": "Jennifer White",
+          "review": "Best breakfast in town! Huge portions.",
+          "rating": 5,
+          "sentiment_score": 0.94
+        },
+        "restaurant_id": "17",
+        "action_by": "Jennifer White",
+        "action": "insert",
+        "time_of_action": "2024-05-10T09:34:56Z"
+      },
+      {
+        "key": "user_reviews",
+        "value": {
+          "name": "Brian Clark",
+          "review": "Good food but always too crowded.",
+          "rating": 3,
+          "sentiment_score": 0.15
+        },
+        "restaurant_id": "17",
+        "action_by": "Brian Clark",
+        "action": "insert",
+        "time_of_action": "2024-05-10T09:34:56Z"
+      },
+      {
+        "key": "user_reviews",
+        "value": {
+          "name": "Katie Brown",
+          "review": "Love their pancakes!",
+          "rating": 4,
+          "sentiment_score": 0.82
+        },
+        "restaurant_id": "17",
+        "action_by": "Katie Brown",
+        "action": "insert",
+        "time_of_action": "2024-05-10T09:34:56Z"
+      },
+      {
+        "key": "name",
+        "value": "Samira",
+        "restaurant_id": "18",
+        "action_by": "system",
+        "action": "insert",
+        "time_of_action": "2024-05-15T12:23:45Z"
+      },
+      {
+        "key": "address",
+        "value": {
+          "building": "100",
+          "coord": [-86.533456, 39.165678],
+          "street": "West 6th Street",
+          "zipcode": "47404"
+        },
+        "restaurant_id": "18",
+        "action_by": "system",
+        "action": "insert",
+        "time_of_action": "2024-05-15T12:23:45Z"
+      },
+      {
+        "key": "user_reviews",
+        "value": {
+          "name": "Mohammed Ali",
+          "review": "Authentic Afghan cuisine! Amazing kebabs.",
+          "rating": 5,
+          "sentiment_score": 0.91
+        },
+        "restaurant_id": "18",
+        "action_by": "Mohammed Ali",
+        "action": "insert",
+        "time_of_action": "2024-05-15T12:23:45Z"
+      },
+      {
+        "key": "user_reviews",
+        "value": {
+          "name": "Susan Jones",
+          "review": "Great food but limited vegetarian options.",
+          "rating": 4,
+          "sentiment_score": 0.45
+        },
+        "restaurant_id": "18",
+        "action_by": "Susan Jones",
+        "action": "insert",
+        "time_of_action": "2024-05-15T12:23:45Z"
+      },
+      {
+        "key": "name",
+        "value": "FARMbloomington",
+        "restaurant_id": "19",
+        "action_by": "system",
+        "action": "insert",
+        "time_of_action": "2024-05-20T11:45:23Z"
+      },
+      {
+        "key": "address",
+        "value": {
+          "building": "108",
+          "coord": [-86.535123, 39.167345],
+          "street": "East Kirkwood Avenue",
+          "zipcode": "47408"
+        },
+        "restaurant_id": "19",
+        "action_by": "system",
+        "action": "insert",
+        "time_of_action": "2024-05-20T11:45:23Z"
+      },
+      {
+        "key": "user_reviews",
+        "value": {
+          "name": "Alice Green",
+          "review": "Exceptional farm-to-table dining experience!",
+          "rating": 5,
+          "sentiment_score": 0.96
+        },
+        "restaurant_id": "19",
+        "action_by": "Alice Green",
+        "action": "insert",
+        "time_of_action": "2024-05-20T11:45:23Z"
+      },
+      {
+        "key": "user_reviews",
+        "value": {
+          "name": "Paul Anderson",
+          "review": "Creative menu but portions are small for the price.",
+          "rating": 4,
+          "sentiment_score": 0.35
+        },
+        "restaurant_id": "19",
+        "action_by": "Paul Anderson",
+        "action": "insert",
+        "time_of_action": "2024-05-20T11:45:23Z"
+      },
+      {
+        "key": "user_reviews",
+        "value": {
+          "name": "Linda Thompson",
+          "review": "Best brunch spot in Bloomington!",
+          "rating": 5,
+          "sentiment_score": 0.89
+        },
+        "restaurant_id": "19",
+        "action_by": "Linda Thompson",
+        "action": "insert",
+        "time_of_action": "2024-05-20T11:45:23Z"
+      },
+      {
+        "key": "name",
+        "value": "Function Brewing",
+        "restaurant_id": "20",
+        "action_by": "system",
+        "action": "insert",
+        "time_of_action": "2024-05-25T16:34:56Z"
+      },
+      {
+        "key": "address",
+        "value": {
+          "building": "108",
+          "coord": [-86.536789, 39.168234],
+          "street": "North College Avenue",
+          "zipcode": "47404"
+        },
+        "restaurant_id": "20",
+        "action_by": "system",
+        "action": "insert",
+        "time_of_action": "2024-05-25T16:34:56Z"
+      },
+      {
+        "key": "user_reviews",
+        "value": {
+          "name": "Ryan Cooper",
+          "review": "Fantastic craft beers and friendly staff!",
+          "rating": 5,
+          "sentiment_score": 0.93
+        },
+        "restaurant_id": "20",
+        "action_by": "Ryan Cooper",
+        "action": "insert",
+        "time_of_action": "2024-05-25T16:34:56Z"
+      },
+      {
+        "key": "user_reviews",
+        "value": {
+          "name": "Michelle Lee",
+          "review": "Great atmosphere but limited food menu.",
+          "rating": 4,
+          "sentiment_score": 0.42
+        },
+        "restaurant_id": "20",
+        "action_by": "Michelle Lee",
+        "action": "insert",
+        "time_of_action": "2024-05-25T16:34:56Z"
+      }
+  ]
