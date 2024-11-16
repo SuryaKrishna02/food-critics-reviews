@@ -8,6 +8,7 @@
         "street": "East Kirkwood Avenue",
         "zipcode": "47408"
       },
+      "avg_rating": 4.5,
       "critic_reviews": [
         {
           "name": "Sarah Johnson",
@@ -34,6 +35,7 @@
         "street": "North Walnut Street",
         "zipcode": "47404"
       },
+      "avg_rating": 5,
       "critic_reviews": [
         {
           "name": "Emily Davis",
@@ -54,6 +56,7 @@
         "street": "South Indiana Avenue",
         "zipcode": "47408"
       },
+      "avg_rating": 3.6,
       "critic_reviews": [
         {
           "name": "Chris Wilson",
@@ -86,6 +89,7 @@
         "street": "East 3rd Street",
         "zipcode": "47401"
       },
+      "avg_rating": 4.5,
       "critic_reviews": [
         {
           "name": "David Chen",
@@ -112,6 +116,7 @@
         "street": "East 3rd Street",
         "zipcode": "47401"
       },
+      "avg_rating": 1,
       "critic_reviews": [
         {
           "name": "Amanda Lopez",
@@ -132,6 +137,7 @@
         "street": "West Kirkwood Avenue",
         "zipcode": "47404"
       },
+      "avg_rating": 4.5,
       "critic_reviews": [
         {
           "name": "John Smith",
@@ -158,6 +164,7 @@
         "street": "East Kirkwood Avenue",
         "zipcode": "47408"
       },
+      "avg_rating": 4,
       "critic_reviews": [
         {
           "name": "Peter Jones",
@@ -184,6 +191,7 @@
         "street": "East 4th Street",
         "zipcode": "47408"
       },
+      "avg_rating": 4,
       "critic_reviews": [
         {
           "name": "Jessica Lee",
@@ -216,6 +224,7 @@
         "street": "East 4th Street",
         "zipcode": "47408"
       },
+      "avg_rating": 4,
       "critic_reviews": [
         {
           "name": "Michael Brown",
@@ -236,6 +245,7 @@
         "street": "North College Avenue",
         "zipcode": "47404"
       },
+      "avg_rating": 1.5,
       "critic_reviews": [
         {
           "name": "Steven Garcia",
@@ -262,6 +272,7 @@
         "street": "South Indiana Avenue",
         "zipcode": "47408"
       },
+      "avg_rating": 4,
       "critic_reviews": [
         {
           "name": "Kevin Wilson",
@@ -288,6 +299,7 @@
         "street": "West Kirkwood Avenue",
         "zipcode": "47404"
       },
+      "avg_rating": 4.6,
       "critic_reviews": [
         {
           "name": "Patrick O'Brien",
@@ -320,6 +332,7 @@
         "street": "East Kirkwood Avenue",
         "zipcode": "47408"
       },
+      "avg_rating": 4,
       "critic_reviews": [
         {
           "name": "Tony Romano",
@@ -340,6 +353,7 @@
         "street": "East 4th Street",
         "zipcode": "47408"
       },
+      "avg_rating": 4.5,
       "critic_reviews": [
         {
           "name": "Priya Patel",
@@ -366,6 +380,7 @@
         "street": "East 6th Street",
         "zipcode": "47408"
       },
+      "avg_rating": 4,
       "critic_reviews": [
         {
           "name": "Emma Thompson",
@@ -392,6 +407,7 @@
         "street": "West 10th Street",
         "zipcode": "47404"
       },
+      "avg_rating": 4,
       "critic_reviews": [
         {
           "name": "Dave Miller",
@@ -412,6 +428,7 @@
         "street": "East Kirkwood Avenue",
         "zipcode": "47408"
       },
+      "avg_rating": 4,
       "critic_reviews": [
         {
           "name": "Jennifer White",
@@ -444,6 +461,7 @@
         "street": "West 6th Street",
         "zipcode": "47404"
       },
+      "avg_rating": 4.5,
       "critic_reviews": [
         {
           "name": "Mohammed Ali",
@@ -470,6 +488,7 @@
       "street": "East Kirkwood Avenue",
       "zipcode": "47408"
     },
+    "avg_rating": 4.6,
     "critic_reviews": [
       {
         "name": "Alice Green",
@@ -502,6 +521,7 @@
       "street": "North College Avenue",
       "zipcode": "47404"
     },
+    "avg_rating": 4.5,
     "critic_reviews": [
       {
         "name": "Ryan Cooper",
