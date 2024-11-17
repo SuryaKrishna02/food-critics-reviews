@@ -1,7 +1,7 @@
 [
     {
       "name": "The Farm Bloomington",
-      "_id": "1",
+      "restaurant_id": "1",
       "address": {
         "building": "108",
         "coord": [-86.534123, 39.167234],
@@ -28,7 +28,7 @@
     },
     {
       "name": "Uptown Cafe",
-      "_id": "2",
+      "restaurant_id": "2",
       "address": {
         "building": "102",
         "coord": [-86.535678, 39.168456],
@@ -49,7 +49,7 @@
     },
     {
       "name": "BuffaLouie's",
-      "_id": "3",
+      "restaurant_id": "3",
       "address": {
         "building": "114",
         "coord": [-86.533890, 39.166789],
@@ -82,7 +82,7 @@
     },
     {
       "name": "Mother Bear's Pizza",
-      "_id": "4",
+      "restaurant_id": "4",
       "address": {
         "building": "1428",
         "coord": [-86.537123, 39.164567],
@@ -109,7 +109,7 @@
     },
     {
       "name": "Turkuaz Cafe",
-      "_id": "5",
+      "restaurant_id": "5",
       "address": {
         "building": "301",
         "coord": [-86.532345, 39.165678],
@@ -130,7 +130,7 @@
     },
     {
       "name": "Crazy Horse",
-      "_id": "6",
+      "restaurant_id": "6",
       "address": {
         "building": "214",
         "coord": [-86.536789, 39.167890],
@@ -157,7 +157,7 @@
     },
     {
       "name": "Nick's English Hut",
-      "_id": "7",
+      "restaurant_id": "7",
       "address": {
         "building": "423",
         "coord": [-86.535234, 39.166543],
@@ -184,7 +184,7 @@
     },
     {
       "name": "Siam House",
-      "_id": "8",
+      "restaurant_id": "8",
       "address": {
         "building": "430",
         "coord": [-86.534567, 39.165432],
@@ -217,7 +217,7 @@
     },
     {
       "name": "Anatolia",
-      "_id": "9",
+      "restaurant_id": "9",
       "address": {
         "building": "405",
         "coord": [-86.533456, 39.164321],
@@ -238,7 +238,7 @@
     },
     {
       "name": "My Thai Cafe",
-      "_id": "10",
+      "restaurant_id": "10",
       "address": {
         "building": "501",
         "coord": [-86.536789, 39.168901],
@@ -265,7 +265,7 @@
     },
     {
       "name": "Dagwood's Deli",
-      "_id": "11",
+      "restaurant_id": "11",
       "address": {
         "building": "116",
         "coord": [-86.535678, 39.167234],
@@ -292,7 +292,7 @@
     },
     {
       "name": "Irish Lion",
-      "_id": "12",
+      "restaurant_id": "12",
       "address": {
         "building": "212",
         "coord": [-86.534890, 39.166789],
@@ -325,7 +325,7 @@
     },
     {
       "name": "Cafe Pizzaria",
-      "_id": "13",
+      "restaurant_id": "13",
       "address": {
         "building": "405",
         "coord": [-86.533567, 39.165432],
@@ -346,7 +346,7 @@
     },
     {
       "name": "Taste of India",
-      "_id": "14",
+      "restaurant_id": "14",
       "address": {
         "building": "316",
         "coord": [-86.532345, 39.164567],
@@ -373,7 +373,7 @@
     },
     {
       "name": "Runcible Spoon",
-      "_id": "15",
+      "restaurant_id": "15",
       "address": {
         "building": "412",
         "coord": [-86.535678, 39.167890],
@@ -400,7 +400,7 @@
     },
     {
       "name": "Bloomington Brewing Co",
-      "_id": "16",
+      "restaurant_id": "16",
       "address": {
         "building": "1795",
         "coord": [-86.537890, 39.168901],
@@ -421,7 +421,7 @@
     },
     {
       "name": "Village Deli",
-      "_id": "17",
+      "restaurant_id": "17",
       "address": {
         "building": "409",
         "coord": [-86.534567, 39.166543],
@@ -454,7 +454,7 @@
     },
     {
       "name": "Samira",
-      "_id": "18",
+      "restaurant_id": "18",
       "address": {
         "building": "100",
         "coord": [-86.533456, 39.165678],
@@ -481,7 +481,7 @@
   },
   {
     "name": "FARMbloomington",
-    "_id": "19",
+    "restaurant_id": "19",
     "address": {
       "building": "108",
       "coord": [-86.535123, 39.167345],
@@ -514,7 +514,7 @@
   },
   {
     "name": "Function Brewing",
-    "_id": "20",
+    "restaurant_id": "20",
     "address": {
       "building": "108",
       "coord": [-86.536789, 39.168234],
