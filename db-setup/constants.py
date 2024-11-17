@@ -9,8 +9,7 @@ CLUSTER_NAME = os.getenv('CLUSTER_NAME')
 DB_CONFIG = {
     'username': os.getenv('DB_USERNAME'),
     'password': os.getenv('DB_PASSWORD'),
-    'cluster_url': f'{CLUSTER_NAME}.z1l4e.mongodb.net',
-    'name': os.getenv('DB_NAME', 'restaurant_reviews')
+    'cluster_url': f'{CLUSTER_NAME}.z1l4e.mongodb.net'
 }
 
 # MongoDB URI Construction for Atlas
@@ -139,52 +138,6 @@ VALIDATION_SCHEMAS = {
             }
         }
     }
-}
-
-# Index Configurations
-INDEX_CONFIGS = {
-    'restaurants': [
-        # Primary identifier
-        [("restaurant_id", 1)],
-        
-        # Basic fields
-        [("name", 1)],
-        [("avg_rating", 1)],
-        
-        # Address fields
-        [("address.coord", "2dsphere")],
-        [("address.zipcode", 1)],
-        [("address.street", 1)],
-        [("address.building", 1)],
-        
-        # Critic reviews - includes compound indexes for efficient querying
-        [("critic_reviews.name", 1)],
-        [("critic_reviews.rating", 1)],
-        [("critic_reviews.review", 1)],
-        [("critic_reviews.sentiment_score", 1)],
-        
-        # Timestamps
-        [("created_at", -1)],
-        [("updated_at", -1)]
-    ],
-    
-    'audit': [
-        # Compound index for time-based queries per restaurant
-        [("restaurant_id", 1), ("time_of_action", -1)],
-        
-        # Single field indexes
-        [("action_by", 1)],
-        [("action", 1)],
-        [("key", 1)]
-    ],
-    
-    'users': [
-        # Unique email index
-        {"email": 1, "unique": True},
-        
-        # Name index for searching
-        [("name", 1)]
-    ]
 }
 
 # File Paths
