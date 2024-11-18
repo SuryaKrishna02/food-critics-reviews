@@ -6,7 +6,7 @@ from datetime import datetime, timezone
 from pymongo.errors import BulkWriteError, ConnectionFailure, OperationFailure
 from constants import (
     MONGO_URI, DB_CONFIG, COLLECTIONS, VALIDATION_SCHEMAS, 
-    INDEX_CONFIGS, PATHS
+    PATHS
 )
 
 
@@ -44,7 +44,7 @@ class RestaurantReviewsDB:
     def __del__(self):
         if hasattr(self, 'client'):
             self.client.close()
-            
+
     def _convert_to_float(self, value: Any) -> float:
         """Convert a value to float."""
         try:
